@@ -3,7 +3,7 @@ Meu nome é Philip, tenho 27 anos e sou formado em Engenharia de Controle e Auto
 
 - 🔭 Atualmente trabalho como analista de dados para o grupo Guararapes (Lojas Riachuelo e Midway Financeira)
 
-- 🌱 Meu grande objetivo e ser um grande cientista de dados e tenho me dedicado bastante tempo estudando estastistica e modelagem de dados
+- 🌱 Meu grande objetivo e ser um grande profissional de T.I, com capacidade de entender bem do negócio e ser referência técnica na parte de desenvolvimento.
 
 <div align="center">
   <a href="https://github.com/ptg1995">

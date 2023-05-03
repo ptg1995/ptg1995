@@ -1,4 +1,4 @@
-### Hi there 👋
+
 Meu nome é Philip, tenho 27 anos e sou formado em Engenharia de Controle e Automação. Tenho bastante gosto por programar, sendo que trabalhei por 3 anos como desenvolvedor de software (C# .net), porém decidi me aventurar no mundo dos **dados**.
 
 - 🔭 Atualmente trabalho como analista de dados para o grupo Guararapes (Lojas Riachuelo e Midway Financeira)
